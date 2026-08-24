@@ -10,3 +10,5 @@ dist-static/
 !.env.example
 .DS_Store
 Thumbs.db
+/tester-site/
+/relationship-assessment-social-card-1200x630.png
